@@ -66,7 +66,6 @@ GEM
     nio4r (2.0.0)
     nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
-    nori (2.6.0)
     puma (3.8.2)
     rack (2.0.3)
     rack-test (0.6.3)
@@ -116,8 +115,6 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
-    wash_out (0.11.0)
-      nori (>= 2.0.0)
     websocket-driver (0.6.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
@@ -133,7 +130,6 @@ DEPENDENCIES
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
-  wash_out
 
 BUNDLED WITH
    1.15.0
