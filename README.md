@@ -1,10 +1,9 @@
-Ruby SOAP Server.
+Ruby REST Server.
 
 ### Built on
 
 - Ruby 2.4
 - Rails 5
-- [WashOut gem][washout]
 - SQLite 3
 
 ### Setup
@@ -16,5 +15,3 @@ Ruby SOAP Server.
 ### Run
 
     bin/rails s
-
-[washout]: https://github.com/inossidabile/wash_out
